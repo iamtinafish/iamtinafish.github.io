@@ -2,7 +2,7 @@
 
 A mental health quiz app addressing comorbidities in mental illness
 
-https://iamrobbiejr.github.io/
+https://iamtinafish.github.io/
 
 ## Overview
 
@@ -15,7 +15,7 @@ Mental Health Check is a quiz app that helps users identify their feelings and d
 - Science-backed questions create an approachable app to help identify your feelings and direct you to useful resources
 
 ## Made By:
-[iamrobbiejr](https://github.com/iamrobbiejr) - Robby Malunga    
+[iamtinafish](https://github.com/iamtinafish)    
 
 ## Preview
 
